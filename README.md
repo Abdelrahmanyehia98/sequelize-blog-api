@@ -36,9 +36,7 @@ This project is a RESTful API built using Node.js, Express.js, and Sequelize ORM
 - Name length validation using `beforeCreate` hook (>2).
 - Soft delete (paranoid mode) for posts.
 
-## 🚀 Getting Started
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/sequelize-blog-api.git
-   cd sequelize-blog-api
+You can test all the API endpoints using the Postman collection:
+
+👉 [Click here to access the collection](https://documenter.getpostman.com/view/39777781/2sB34foMGD)
